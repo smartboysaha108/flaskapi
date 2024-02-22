@@ -1,5 +1,2 @@
 Flask
-pdfplumber
-nltk
-scikit-learn
 gunicorn
